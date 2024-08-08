@@ -1,12 +1,14 @@
 # Coursera - My respectable lecturer
 
 My lecturer and I in Coursera - Prof. Andrew Ng. I was impressive by him because of the clear way he transmitted the knowledge, quality of all courses and often gave me some advices on career path. This pic is the opportunity I saw him in FPT events. By the way, his company, Landing AI signed the contract with FPT - a tech company of Vietnam. Also on this event, he had presentation and talkshow with other guests. I remembered clearly that he wrote line some codes dirrectly on the stage. I was so funny=))
-![image](https://github.com/user-attachments/assets/b9a26bea-d24a-4fe9-9537-c80f3f441418)
+![image](https://github.com/user-attachments/assets/7aeecef3-39da-420c-ac2f-5bdf4579f5e2)
+
+
 
 
 Beside learning the suject of my major - Electical Enginnering, I would like to learn more expecrience things online
 ### Machine learning: 3 courses in Machine learning specialization
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b9a26bea-d24a-4fe9-9537-c80f3f441418)
 
 #### Course 1: Supervised Machine Learning: Regression and Classification
 This course instructed me on machine learning road. I had learned some concepts, definitions and wrotten some lines of codes by awkward way=)) 
