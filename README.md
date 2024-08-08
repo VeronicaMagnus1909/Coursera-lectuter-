@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39dbb92f-8041-4c6c-a6e4-b52ca02b53de)# Coursera-lectuter
+# Coursera-lectuter
 
 My lectuter and I in Coursera - Prof. Andrew Ng. I was impressive by him because of the clear way he transmitted the knowledge, quality of all courses and often gave me some advices on career path. This pic is the opportunity I saw him in FPT events. By the way, his company, Landing AI signed the contract with FPT - a tech company of Vietnam. Also on this event, he had presentation and talkshow with other guests. I remembered clearly that he wrote line some codes dirrectly on the stage. I was so funny=))
 ![Uploading image.png…]()
