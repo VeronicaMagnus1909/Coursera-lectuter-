@@ -1,6 +1,7 @@
 # Coursera - My respectable lecturer
 
 I and My lecturer in Coursera - Prof. Andrew Ng. I was impressive by him because of the clear way he transmitted the knowledge, quality of all courses and often gave me some advices on career path. This pic is the opportunity I saw him in FPT annual event. By the way, his company, Landing AI signed the contract with FPT - a tech company of Vietnam. Also on this event, he had presentation and talkshow with other guests. I remembered clearly that he wrote line some codes dirrectly on the stage. It was so funny=))
+
 ![image](https://github.com/user-attachments/assets/7aeecef3-39da-420c-ac2f-5bdf4579f5e2)
 
 
