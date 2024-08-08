@@ -24,10 +24,10 @@ I took this course in the first main semeter 20231. I had some interesting exper
 ![image](https://github.com/user-attachments/assets/27e2f232-9dee-4519-8efa-f82f8d93f4f3)
 
 ### Deep learning
-### Course 1: Neural  Network and Deep learning
+#### Course 1: Neural  Network and Deep learning
 "From Machine learning to Deep learning. How did scientist mimic human brain in machines??? We have Neural Network." 
 ![image](https://github.com/user-attachments/assets/4ba36207-04d5-45cb-a446-1ac36f51aca8)
-### Course 2: Convolutional Neural Network
+#### Course 2: Convolutional Neural Network
 * But the course expired before I got the certificate.
 
 
