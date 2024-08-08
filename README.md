@@ -19,10 +19,10 @@ I might have been more familiar with machine learning but actually, the difficul
 ![image](https://github.com/user-attachments/assets/9f9826b4-cb86-4a46-b7b3-c5c2a99fc191)
 
 #### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
-I took this course in the first main semeter 20231. I had some interesting experience with concepts of reinforcement learning, how Outlook know what is spam email on my account, coding K-mean algorithm,...
+I took this course in the first main semeter 20231. I had some interesting experience with concepts of reinforcement learning, why the systems khow what spams email on my account, coding K-mean algorithm,...
 ![image](https://github.com/user-attachments/assets/27e2f232-9dee-4519-8efa-f82f8d93f4f3)
 
-### Deeplearning
+### Deep learning
 ### Course 1: Neural  Network and Deep learning
 "From Machine learning to Deep learning. How did scientist mimic human brain in machines??? We have Neural Network." 
 ![image](https://github.com/user-attachments/assets/4ba36207-04d5-45cb-a446-1ac36f51aca8)
