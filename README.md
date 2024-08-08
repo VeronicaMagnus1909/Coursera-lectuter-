@@ -4,6 +4,7 @@ I and My lecturer in Coursera - Prof. Andrew Ng. I was impressive by him because
 
 ![image](https://github.com/user-attachments/assets/7aeecef3-39da-420c-ac2f-5bdf4579f5e2)
 
+![image](https://github.com/user-attachments/assets/0be57b03-53a9-4126-ad68-42c21a2a4c26)
 
 
 
@@ -24,6 +25,9 @@ I took this course in the first main semeter 20231. I had some interesting exper
 ![image](https://github.com/user-attachments/assets/27e2f232-9dee-4519-8efa-f82f8d93f4f3)
 
 ### II. Deep learning
+![image](https://github.com/user-attachments/assets/9c0e5b17-c53c-4c2b-b3e5-fb5608ae7097)
+
+
 #### Course 1: Neural  Network and Deep learning
 "From Machine learning to Deep learning. How did scientist mimic human brain in machines??? We have Neural Network." 
 ![image](https://github.com/user-attachments/assets/4ba36207-04d5-45cb-a446-1ac36f51aca8)
