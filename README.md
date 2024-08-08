@@ -30,6 +30,13 @@ I took this course in the first main semeter 20231. I had some interesting exper
 #### Course 2: Convolutional Neural Network
 * But the course expired before I got the certificate.
 
+### III. Tensorflow developer professional certificate
+![image](https://github.com/user-attachments/assets/c45c4788-6c00-4d2b-bde8-8d91d52c48b6)
+
+#### Course 1: Introduction to Tensorflow for Artificial Intelligence, Machine learning, and Deep learning
+![image](https://github.com/user-attachments/assets/c631bb76-b140-45e0-958c-2b7cb94c7cf7)
+
+
 
 
 
