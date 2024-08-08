@@ -8,7 +8,7 @@ I and My lecturer in Coursera - Prof. Andrew Ng. I was impressive by him because
 
 
 Beside learning the suject of my major - Electical Enginnering, I would like to learn more expecrience things online
-### Machine learning: 3 courses in Machine learning specialization
+### I. Machine learning: 3 courses in Machine learning specialization
 ![image](https://github.com/user-attachments/assets/b9a26bea-d24a-4fe9-9537-c80f3f441418)
 
 #### Course 1: Supervised Machine Learning: Regression and Classification
@@ -23,7 +23,7 @@ I might have been more familiar with machine learning but actually, the difficul
 I took this course in the first main semeter 20231. I had some interesting experience with concepts of reinforcement learning, why the systems khow what spams email on my account, coding K-mean algorithm,...
 ![image](https://github.com/user-attachments/assets/27e2f232-9dee-4519-8efa-f82f8d93f4f3)
 
-### Deep learning
+### II. Deep learning
 #### Course 1: Neural  Network and Deep learning
 "From Machine learning to Deep learning. How did scientist mimic human brain in machines??? We have Neural Network." 
 ![image](https://github.com/user-attachments/assets/4ba36207-04d5-45cb-a446-1ac36f51aca8)
