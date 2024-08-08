@@ -9,7 +9,7 @@ I and My lecturer in Coursera - Prof. Andrew Ng. I was impressive by him because
 
 
 Beside learning the suject of my major - Electical Enginnering, I would like to learn more expecrience things online
-### I. Machine learning: 3 courses in Machine learning specialization
+## I. Machine learning: 3 courses in Machine learning specialization
 
 ![image](https://github.com/user-attachments/assets/9a649422-2617-41f7-871e-4783b9ceaa3c)
 
@@ -28,7 +28,7 @@ I might have been more familiar with machine learning but actually, the difficul
 I took this course in the first main semeter 20231. I had some interesting experience with concepts of reinforcement learning, why the systems khow what spams email on my account, coding K-mean algorithm,...
 ![image](https://github.com/user-attachments/assets/27e2f232-9dee-4519-8efa-f82f8d93f4f3)
 
-### II. Deep learning
+## II. Deep learning
 ![image](https://github.com/user-attachments/assets/9f7c73f9-ad0e-4b92-a23a-7a0561b49d49)
 
 
@@ -39,7 +39,7 @@ I took this course in the first main semeter 20231. I had some interesting exper
 #### Course 2: Convolutional Neural Network
 * But the course expired before I got the certificate.
 
-### III. Tensorflow developer professional certificate
+## III. Tensorflow developer professional certificate
 ![image](https://github.com/user-attachments/assets/c45c4788-6c00-4d2b-bde8-8d91d52c48b6)
 
 #### Course 1: Introduction to Tensorflow for Artificial Intelligence, Machine learning, and Deep learning
