@@ -4,12 +4,15 @@ I and My lecturer in Coursera - Prof. Andrew Ng. I was impressive by him because
 
 ![image](https://github.com/user-attachments/assets/7aeecef3-39da-420c-ac2f-5bdf4579f5e2)
 
-![image](https://github.com/user-attachments/assets/0be57b03-53a9-4126-ad68-42c21a2a4c26)
+
 
 
 
 Beside learning the suject of my major - Electical Enginnering, I would like to learn more expecrience things online
 ### I. Machine learning: 3 courses in Machine learning specialization
+
+![image](https://github.com/user-attachments/assets/0be57b03-53a9-4126-ad68-42c21a2a4c26)
+
 ![image](https://github.com/user-attachments/assets/b9a26bea-d24a-4fe9-9537-c80f3f441418)
 
 #### Course 1: Supervised Machine Learning: Regression and Classification
