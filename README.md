@@ -1,6 +1,6 @@
-# Coursera-lectuter
+# Coursera - My respectable lecturer
 
-My lectuter and I in Coursera - Prof. Andrew Ng. I was impressive by him because of the clear way he transmitted the knowledge, quality of all courses and often gave me some advices on career path. This pic is the opportunity I saw him in FPT events. By the way, his company, Landing AI signed the contract with FPT - a tech company of Vietnam. Also on this event, he had presentation and talkshow with other guests. I remembered clearly that he wrote line some codes dirrectly on the stage. I was so funny=))
+My lecturer and I in Coursera - Prof. Andrew Ng. I was impressive by him because of the clear way he transmitted the knowledge, quality of all courses and often gave me some advices on career path. This pic is the opportunity I saw him in FPT events. By the way, his company, Landing AI signed the contract with FPT - a tech company of Vietnam. Also on this event, he had presentation and talkshow with other guests. I remembered clearly that he wrote line some codes dirrectly on the stage. I was so funny=))
 ![Uploading image.png…]()
 
 
@@ -22,6 +22,8 @@ I took this course in the first main semeter 20231. I had some interesting exper
 ### Course 1:
 "From Machine learning to Deep learning. How did scientist mimic human brain in machines??? We have Neural Network." 
 ![image](https://github.com/user-attachments/assets/4ba36207-04d5-45cb-a446-1ac36f51aca8)
+### Course 2: Convolutional Neural Network
+* But the course expired before I got the certificate.
 
 
 
